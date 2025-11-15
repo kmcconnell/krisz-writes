@@ -1,0 +1,38 @@
+# Site settings
+title: Krisz Writes
+author: Krisz
+email: your-email@example.com
+description: Stories, memories, and chronicles by Krisz
+baseurl: "/krisz-writes"
+url: "https://kmcconnell.github.io"
+
+# Theme settings
+remote_theme: erlzhang/jekyll-theme-persephone
+
+# Persephone theme options
+persephone:
+  date_format: "%B %-d, %Y"
+  
+# Collections for book/chapter format
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
