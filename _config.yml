@@ -10,8 +10,17 @@ url: "https://kmcconnell.github.io"
 remote_theme: erlzhang/jekyll-theme-persephone
 
 # Persephone theme options
-persephone:
-  date_format: "%B %-d, %Y"
+theme_setting:
+  blog_page: "blog.md"
+  about_page: "about.md"
+  archive_page: "archive.md"
+  nav_pages:
+    - "blog.md"
+    - "archive.md"
+    - "about.md"
+  lang:
+    category_all: All
+    blog_title: Blog
   
 # Collections for book/chapter format
 collections:
