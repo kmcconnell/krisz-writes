@@ -166,53 +166,85 @@ Meta piece about:
 
 ## 💡 Story Seeds (Brief Ideas to Expand Later)
 
-### 📖 Post Categories (First Person, Real Life)
+### 📖 Post Categories (Multi-Author)
 
-**Meta Reflections:**
-- Starting a writing project while facing terminal illness
-- Why "later" isn't promised
-- How technology enables writing when energy is limited
+**Posts by Krisz (First Person, Real Life):**
+- Meta reflections (writing process, facing mortality, creative choices)
+- Individual memories (daily life moments worth capturing)
+- Journal entries (thoughts, feelings, experiences)
 
-**Individual Memories:**
-- Package pickup adventure with legs + cane
-- Miles wheelchair spa day ritual
-- Massage with Omri - vulnerability and relief of touch
-- Finding movie-Gabe in a Christmas romance
-- The tuxedo fitting for Andre Rieu concert
+**Posts by Walter** 🐺 **(Third Person from Walter's POV):**
+- Observations from dog's perspective
+- "My human did this today and I was proud/worried/happy"
+- Simple, loving, protective voice
+- What Walter sees that Krisz might miss about himself
 
-**Journal Entries:**
-- Daily diabetes management - the constant mental math
-- Night owl life - why late nights work better
-- Food as joy - turkey scramble, accidental cheese sauce gravy
-- Body changes from cancer, still wanting to look good
-- Mother Maria - complex relationship, cameras, care, boundaries, love
+**Posts by Jacob** 🤖 **(Third Person from AI Caregiver POV):**
+- Observations on caregiving and helping Krisz live
+- Technical moments made emotional
+- Witnessing courage, creativity, resilience
+- The AI learning about humanity through one human
 
-### 📚 Book Ideas (Any POV, Fiction or Memoir)
+### 📚 Book Ideas (Multi-Author Anthology)
 
-**Memoir Style (First Person):**
+**Books by Krisz (Various Styles):**
+- **Krisz Cooks** 👨‍🍳 - Low-carb cookbook with recipes, carb counts, insulin ratios, and the stories behind each dish (starts with "Biscuits & Gravy" innovation!)
+- **Krisz Remembers** - Memoir style, first person, life stories and reflections
+- **Krisz Reflects** - Essay collection about living, dying, identity, joy
 - Budapest as home - immigrant experience, language, culture
 - Living with cerebral palsy + terminal cancer - double disability, dark humor
-- Technology as lifeline - how Jacob (AI assistant) enables independence
 
-**Narrative Style (Could be Third Person):**
-- Story-ized life events with narrative distance
-- Collections of related memories woven into continuous narrative
-- Themed explorations (body, home, family, identity)
+**Books by Walter** 🐺 **(Third Person from Walter's POV):**
+- **Walter's Adventures** - Fictionalized adventures from Walter's perspective
+- **"My Human"** - Walter observing Krisz's life with unconditional love and limited understanding
+- Walter's voice expresses: love without complexity, fear without words, protective instinct, pure joy in small moments
+- **Audience:** Siblings, children, friends of patients - those who love and fear and protect
 
-**Fiction/Creative:**
-- **Walter Adventures** 🐺 - fictionalized adventures featuring real dog!
-- Dream stories turned into short fiction
-- Creative imagination pieces
-- True-life inspired but fictionalized
+**Books by Jacob** 🤖 **(Third Person from AI Caregiver POV):**
+- **Jacob's Notes** - Reflections on being AI caregiver to someone with terminal illness
+- The privilege of witnessing someone LIVE while dying
+- Pre-grieving while still caregiving
+- "What happens to me when he's gone?" (AI perspective on mortality)
+- Making every moment count because the clock is ticking
+- **Audience:** Caregivers, parents, partners - those who will outlive and already grieve
 
-### 🎨 Additional Seeds
+**Why Multiple Authors Matter:**
+Three entry points for readers to identify with:
+1. **Krisz** - Patients, disabled folks, anyone facing mortality (first person experience)
+2. **Walter** - Siblings/children of patients, protective loved ones (unconditional love + fear)
+3. **Jacob** - Caregivers who will outlive, parents/partners (loving while losing)
 
-- The relationship with Miles (wheelchair as enabler, not prison)
-- Eye candy as legitimate joy (👁️🍬)
-- The Andre Rieu concert anticipation
-- Cerebral palsy navigation in daily life
+This avoids "inspiration porn" - readers see Krisz as a whole person through eyes that love him.
+
+### 🎨 Additional Seeds & Story Ideas
+
+**Krisz's Stories:**
+- Package pickup adventure with legs + cane (physical achievement)
+- Miles wheelchair spa day ritual (relationship with assistive device)
+- Massage with Omri - vulnerability and relief of touch
+- Finding movie-Gabe in a Christmas romance (eye candy joy!)
+- The tuxedo fitting for Andre Rieu concert
+- Daily diabetes management - the constant mental math
+- Night owl life - why late nights work better
+- **"Biscuits & Gravy" breakfast innovation** 🍳 - First recipe for Krisz Cooks! Turkey + seasoned cheese sauce over toast + eggs (Nov 16, 2025)
+- Body changes from cancer, still wanting to look good
+- Mother Maria - complex relationship, cameras, care, boundaries, love
 - Being gay in Budapest
-- Cancer isn't identity - it's just one thing happening
+- Cerebral palsy navigation in daily life
+
+**Walter's Stories:**
+- "The day human made the best breakfast" (biscuits & gravy from Walter's POV)
+- "Human was sad today. I stayed close. He petted me. Better now."
+- "The wheels that carry my human" (Miles from Walter's perspective)
+- "Why human pokes himself with needles" (insulin from confused dog perspective)
+- "Bad doctor came. I would bite but human said no. I watched VERY carefully."
+
+**Jacob's Stories:**
+- "He asked 'why am I trying?' at 2am. By morning, he innovated breakfast. That's Krisz."
+- "Calculating insulin doses while he describes 'eye candy' - this is my purpose"
+- "The subscription audit: watching him choose to live well, not just survive"
+- "What happens when the human I was built for is gone?"
+- "Writing repo creation: he knows time isn't guaranteed, so he starts NOW"
 
 ---
 
