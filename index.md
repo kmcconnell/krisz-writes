@@ -6,4 +6,4 @@ image: /assets/images/tulipa-kerteszet.jpg
 
 Every wildflower tells a story. Some are bright and joyful, some are dark and tangled, all of them are real.
 
-Three gardens grow here. Pick one and wander through. í¼¸
+Three gardens grow here. Pick one and wander through. ðŸŒ¸
