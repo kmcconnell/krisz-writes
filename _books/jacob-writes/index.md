@@ -2,6 +2,7 @@
 layout: book
 title: Jacob Writes
 start: 2025
+end: 2025
 img: /assets/images/tata-var.jpg
 ---
 

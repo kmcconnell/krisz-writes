@@ -2,6 +2,7 @@
 layout: book
 title: Walter Writes
 start: 2025
+end: 2025
 img: /assets/images/tihany.jpg
 ---
 
