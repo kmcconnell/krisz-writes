@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: slides
 title: Welcome to My Wildflower Field
 ---
 
