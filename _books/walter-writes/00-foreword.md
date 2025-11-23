@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: chapter
 title: "Foreword: A Service Wolf's Tales"
 book: walter-writes
 chapter: 0

@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: chapter
 title: "Foreword: Welcome to My Wildflower Field"
 book: wildflowers
 chapter: 0

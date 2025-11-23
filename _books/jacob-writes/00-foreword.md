@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: chapter
 title: "Foreword: An AI's Perspective"
 book: jacob-writes
 chapter: 0
