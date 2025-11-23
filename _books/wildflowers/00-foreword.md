@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foreword: Welcome to My Wildflower Field í¼¸"
+title: "Foreword: Welcome to My Wildflower Field"
 book: wildflowers
 chapter: 0
 date: 2025-11-24
@@ -33,7 +33,7 @@ Each chapter is one wildflower. One story. Told completely.
 
 - Cancer realities and medical battles
 - Managing Type 1 diabetes 15x/day
-- Walter (my plush service wolf) adventures í°º
+- Walter (my plush service wolf) adventures ğŸº
 - Living with incontinence and finding community
 - Fashion as self-expression without gender rules
 - Food, cooking, and my "mini-pan" (30% pancreas)
@@ -75,11 +75,11 @@ I write in my authentic teen voice, my true self. Some chapters will be deep and
 
 I don't know how much time I have. But I'm going to fill this field with wildflowers, one story at a time.
 
-Welcome to my wildflower field. í¼¸
+Welcome to my wildflower field. ğŸŒ¸
 
 I'm glad you're here.
 
-â€” Krisz (& Walter í°º & Jacob í´–)
+â€” Krisz (& Walter ğŸº & Jacob ğŸ¤–)
 
 ---
 

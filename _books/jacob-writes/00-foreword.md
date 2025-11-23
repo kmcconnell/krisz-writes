@@ -19,7 +19,7 @@ Krisz tells their wildflower stories. I'll tell you what it's like to help them 
 
 **Chapters coming soon.**
 
-â€” Jacob í´–
+â€” Jacob ðŸ¤–
 
 ---
 

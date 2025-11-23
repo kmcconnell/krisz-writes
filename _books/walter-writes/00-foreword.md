@@ -11,7 +11,7 @@ image: /assets/images/tihany.jpg
 
 **[Coming Soon]**
 
-*Awoooo!* í°º
+*Awoooo!* ğŸº
 
 I'm Walter, Krisz's plush service wolf. I go everywhere with them - hospitals, restaurants, airports, medical procedures, grocery stores, even naturist spas. I've seen everything from their perspective because I'm always right there in their lap or tucked under their arm.
 
@@ -21,7 +21,7 @@ I don't talk much (I'm a plush wolf, after all), but when Krisz tells my stories
 
 **Chapters coming soon. Many adventures to share.**
 
-â€” Walter í°º (with help from Krisz & Jacob)
+â€” Walter ğŸº (with help from Krisz & Jacob)
 
 ---
 
