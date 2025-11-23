@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: "Foreword: An AI's Perspective"
 book: jacob-writes
 chapter: 0

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: "Foreword: Welcome to My Wildflower Field"
 book: wildflowers
 chapter: 0
