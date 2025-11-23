@@ -1,5 +1,5 @@
 ---
-layout: garden
+layout: home
 title: Welcome to My Wildflower Field
 image: /assets/images/tulipa-kerteszet.jpg
 ---
