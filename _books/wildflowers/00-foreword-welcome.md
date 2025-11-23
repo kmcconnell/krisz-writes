@@ -3,6 +3,7 @@ layout: book
 title: "Foreword: Welcome to My Wildflower Field"
 book: wildflowers
 chapter: 0
+date: 2025-11-24
 image: /assets/images/las-vegas.jpg
 ---
 
